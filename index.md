@@ -1,4 +1,4 @@
-[index (2).html](https://github.com/user-attachments/files/26494607/index.2.html)[Uploading i<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -648,4 +648,4 @@
 
 </body>
 </html>
-ndex (2).html…]()
+
