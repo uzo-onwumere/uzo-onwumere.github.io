@@ -545,17 +545,6 @@
           <span class="repo-tag">automation</span>
         </div>
       </a>
-      <a href="https://github.com/uzo-onwumere/home-lab" target="_blank" class="repo-card reveal">
-        <div class="repo-arrow">&#8599;</div>
-        <div class="repo-icon" style="background:rgba(245,158,11,0.08);">&#9670;</div>
-        <div class="repo-name">home-lab</div>
-        <div class="repo-desc">Full documentation of my CachyOS + VMware lab environment, including Active Directory setup and malware analysis workflow.</div>
-        <div class="repo-tags">
-          <span class="repo-tag">active-directory</span>
-          <span class="repo-tag">vmware</span>
-          <span class="repo-tag">malware-analysis</span>
-        </div>
-      </a>
       <a href="https://github.com/uzo-onwumere/blog" target="_blank" class="repo-card reveal">
         <div class="repo-arrow">&#8599;</div>
         <div class="repo-icon" style="background:rgba(255,71,87,0.08);">&#10022;</div>
