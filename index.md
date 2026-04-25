@@ -463,7 +463,7 @@
         </div>
         <div class="spec-row">
           <span class="spec-key">roadmap</span>
-          <span class="spec-val blue">eJPT &rarr; PNPT &rarr; Pentest+ &rarr; OSCP &rarr; GPEN</span>
+          <span class="spec-val blue">PNPT &rarr; Pentest+ &rarr; OSCP &rarr; GPEN</span>
         </div>
       </div>
     </div>
@@ -495,12 +495,12 @@
       <div class="cert-card progress reveal">
         <div class="cert-issuer">eLearnSecurity</div>
         <div class="cert-name">eJPT</div>
-        <span class="cert-status status-progress">in progress</span>
+        <span class="cert-status status-earned">earned</span>
       </div>
       <div class="cert-card planned reveal">
         <div class="cert-issuer">TCM Security</div>
         <div class="cert-name">PNPT</div>
-        <span class="cert-status status-next">next up</span>
+        <span class="cert-status status-progress">in progress</span>
       </div>
       <div class="cert-card planned reveal">
         <div class="cert-issuer">CompTIA</div>
