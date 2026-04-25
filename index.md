@@ -447,7 +447,7 @@
         </div>
         <div class="spec-row">
           <span class="spec-key">current focus</span>
-          <span class="spec-val amber">eJPT &middot; HTB machines</span>
+          <span class="spec-val amber">PNPT &middot; HTB machines</span>
         </div>
         <div class="spec-row">
           <span class="spec-key">host OS</span>
