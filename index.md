@@ -505,7 +505,7 @@
       <div class="cert-card planned reveal">
         <div class="cert-issuer">CompTIA</div>
         <div class="cert-name">Pentest+</div>
-        <span class="cert-status status-next">roadmap</span>
+        <span class="cert-status status-earned">earned</span>
       </div>
       <div class="cert-card planned reveal">
         <div class="cert-issuer">Offensive Security</div>
