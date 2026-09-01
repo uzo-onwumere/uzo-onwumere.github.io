@@ -463,7 +463,7 @@
         </div>
         <div class="spec-row">
           <span class="spec-key">roadmap</span>
-          <span class="spec-val blue">Pentest+ &rarr; PNPT+ &rarr; OSCP &rarr; GPEN</span>
+          <span class="spec-val blue">Pentest+ &rarr; PNPT &rarr; OSCP &rarr; GPEN</span>
         </div>
       </div>
     </div>
