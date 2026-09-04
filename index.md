@@ -500,12 +500,12 @@
       <div class="cert-card active reveal">
         <div class="cert-issuer">CompTIA</div>
         <div class="cert-name">Pentest+</div>
-        <span class="cert-status status-progress">earned</span>
+        <span class="cert-status status-earned">earned</span>
       </div>
       <div class="cert-card progress reveal">
         <div class="cert-issuer">TCM Security</div>
         <div class="cert-name">PNPT</div>
-        <span class="cert-status status-earned">in progress</span>
+        <span class="cert-status status-progress">in progress</span>
       </div>
       <div class="cert-card planned reveal">
         <div class="cert-issuer">Offensive Security</div>
