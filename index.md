@@ -493,13 +493,13 @@
         <span class="cert-status status-earned">earned</span>
       </div>
       <div class="cert-card active reveal">
-        <div class="cert-issuer">eLearnSecurity</div>
-        <div class="cert-name">eJPT</div>
+        <div class="cert-issuer">CompTIA</div>
+        <div class="cert-name">Pentest+</div>
         <span class="cert-status status-earned">earned</span>
       </div>
       <div class="cert-card active reveal">
-        <div class="cert-issuer">CompTIA</div>
-        <div class="cert-name">Pentest+</div>
+        <div class="cert-issuer">eLearnSecurity</div>
+        <div class="cert-name">eJPT</div>
         <span class="cert-status status-earned">earned</span>
       </div>
       <div class="cert-card progress reveal">
